@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>key_yellow</key>
+        <integer>88</integer>
+        <key>hp</key>
+        <integer>55</integer>
+        <key>attack</key>
+        <integer>11</integer>
+        <key>gold</key>
+        <integer>33</integer>
+        <key>defence</key>
+        <integer>22</integer>
+        <key>hun</key>
+        <integer>44</integer>
+        <key>key_red</key>
+        <integer>77</integer>
+        <key>key_blue</key>
+        <integer>66</integer>
+        <key>last_floor</key>
+        <integer>99</integer>
+    </dict>
+</plist>
